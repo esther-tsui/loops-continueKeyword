@@ -1,0 +1,12 @@
+for num in 1...9 {
+  // Add your code below 🔢 
+if num % 2 == 1 { //if the reminder is 1, it means it's an odd number
+    continue //continue to NOT print out
+}
+  
+  print(num)
+}
+
+print("Who do we appreciate?")
+print("YOU!")
+
